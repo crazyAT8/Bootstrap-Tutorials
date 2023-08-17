@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+Buttons 
+    - Button Styles
+        types of buttons with corisponding style 
+            Basic, defaultm, primary, success, info, warning, danger, link
+        can be used on <a>, <button>, or <input>
+
+    - Button size
+        just like it sounds
+    
+    - Block Level Buttons   
+        big wide buttons that take up most of the pages
+
+    - Active/Disabled Buttons 
+        different features for the the state of the button
+
+Button Groups
+    - Button Groups 
+    
+    - Vertical Button Groups
+
+    - Justifed Button Groups 
+
+    - Nesting Button Groups & Dropdown Menus
+
+    - Split Button Dropdowns
+
+Boostrap Glyphicons
+    - Glypphicons
+
+    - Glyphicon Syntax
+
+    - Example
+
+Boostrap Badges/Labels
+    - Badges
+
+    - Labels
+
+Progress Bars
+    - Basic Progress Bars
+
+    - Progress Bar with Labels
+
+    - Colored Progress Bars 
+
+    - Striped Progress Bars
+
+    - Animated Progress Bar 
+
+    - Stacked Progress Bars
+
+Pagination
+    - Basic Pagination
+
+    - Active State 
+
+    - Disabled State 
+
+    - Pagination Sizing 
+
+    - Breadcrumnbs
+
+Pager
