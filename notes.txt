@@ -59,13 +59,25 @@ Progress Bars
 
 Pagination
     - Basic Pagination
+        a horizontal range of numbered buttons
 
     - Active State 
+        making one of the numbers glow
 
     - Disabled State 
+        gray out a number
 
     - Pagination Sizing 
+        how big or small you'd like it
 
     - Breadcrumnbs
+        a nav bar that streaks across the screen
+            but only has the sites different pages on one side
 
 Pager
+    - What is it 
+        buttons for "Previous" and "Next"
+            middle of the screen 
+    - Align Button 
+        same thing but buttons 
+            have a large area of seperation
