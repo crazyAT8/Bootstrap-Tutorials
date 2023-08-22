@@ -81,3 +81,25 @@ Pager
     - Align Button 
         same thing but buttons 
             have a large area of seperation
+
+List Groups
+    - Basic List Groups
+        basically a list but no dots
+        just a retangle outline that boxes it in 
+    - List Group with Badges 
+        say you have a list of catagories
+        adding badges can show the amount in a given catagory
+    - List Group with Linked Items
+        same thing as the basic but uses <a> tags instead of <li> tags 
+    - Active State 
+        highlights a particular item 
+    - Disabled Item 
+        grays out an item 
+    - Contextual Classes 
+        highlight the list items by color 
+    - Custom Content 
+        add anything you want to a list-group-item 
+            bootstrap has classes for a title and subtext
+
+Panels
+
