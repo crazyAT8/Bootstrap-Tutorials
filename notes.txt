@@ -102,4 +102,12 @@ List Groups
             bootstrap has classes for a title and subtext
 
 Panels
+    - Panels
+        just what it sounds like
+    - Panel Heading 
+        just what it sounds like
+    - Panel Footing
+        just what it sounds like    
+    - Panels with Contextual Classes
+        just what it sounds like
 
