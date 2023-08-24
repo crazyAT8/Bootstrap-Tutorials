@@ -111,3 +111,20 @@ Panels
     - Panels with Contextual Classes
         just what it sounds like
 
+Dropdown
+    - Basic Dropdown 
+        click on a label with an arrow at the end of the title 
+        and it drops down 
+    - Dropdown Divider
+        put a little line btw items 
+    - Dropdown Header
+        a grayed out and smaller text above choices
+    - Disable and Active items 
+        just like it sounds 
+    - Dropdown Position
+        have the menu appear anywhere on the screen 
+    - Dropup
+        the menu goes up 
+    - Dropdown Accessibility
+        add an aria attribute and role
+            to help screen reads
